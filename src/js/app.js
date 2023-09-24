@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import AppController from './AppController';
 
 const appController = new AppController();

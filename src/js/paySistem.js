@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const paySistem = {
   34: {
     starts: 34,

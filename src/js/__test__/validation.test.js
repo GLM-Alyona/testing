@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import paySistem from '../paySistem';
 import Validation from '../Validation';
 

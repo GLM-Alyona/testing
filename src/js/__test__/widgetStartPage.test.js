@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import WidgetStartPage from '../WidgetStartPage';
 
 describe('Проверка отрисовки стартовой страницы', () => {

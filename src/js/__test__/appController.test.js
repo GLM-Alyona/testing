@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import AppController from '../AppController';
 import RedrowHandler from '../RedrowHandler';
 import WidgetStartPage from '../WidgetStartPage';

@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable prefer-regex-literals */
 /**
  * Класс отвечающий за валидацию переданных значений, не привязан к DOM.

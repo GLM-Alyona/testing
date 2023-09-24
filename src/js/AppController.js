@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import WidgetStartPage from './WidgetStartPage';
 import RedrowHandler from './RedrowHandler';
 import paySistem from './paySistem';

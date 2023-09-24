@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import puppetteer from 'puppeteer';
 
 const childProcess = require('child_process');
